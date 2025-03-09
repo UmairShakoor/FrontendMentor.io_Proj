@@ -20,6 +20,17 @@ Welcome to my **Frontend Mentor Challenges** repository! Here, I share all my so
 ---
 
 ## How to Use
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/UmairShakoor/FrontendMentor.io_Proj.git
+   ```
+
+## 🤝 Let’s Connect!
+
+I’m always open to collaboration, feedback, and learning opportunities. Feel free to reach out:
+- [Linkedin](https://www.linkedin.com/in/theumairshakoor/)
+- [Twitter (X)](https://x.com/theUmairShakoor/)
+- [Dev.to](https://dev.to/umairshakoor/)
+- [Email](mailto:umairshakoor.pro@gmail.com)
+
+---
