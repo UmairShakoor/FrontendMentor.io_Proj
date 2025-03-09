@@ -1,0 +1,66 @@
+:root{
+    --font_fa:"Figtree", sans-serif;
+    --primarycol:hsl(47, 88%, 63%);
+    --secCol:white;
+    --cardShadow:8px 7px black;
+    --paracol:hsl(0, 0%, 42%);
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background:var(--primarycol);
+    font-family:var(--font_fa);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:100vw;
+    height:100vh;
+}
+.card{
+    max-width:290px;
+    border:1px solid black;
+    border-radius:15px;
+    background:var(--secCol);
+    padding:15px;
+    display:flex;
+    flex-flow:column wrap;
+    gap:15px;
+    box-shadow:var(--cardShadow);
+}
+.cover{
+    border:0;
+    border-radius:10px;
+}
+button,h1,.logo span{
+    font-weight:bold;
+}
+button{
+    background:var(--primarycol);
+    border:0;
+    border-radius:5px;
+    padding:6.5px 10px;
+    width:fit-content;
+}
+.date{
+    font-size:13px;
+    font-weight:500;
+}
+h1{
+    font-size:1.2rem;
+    transition:color 0.1s ease 0s;
+}
+h1:active,h1:hover{
+    color:var(--primarycol);
+}
+p{
+    font-size:16px;
+    color:var(--paracol);
+}
+.logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
