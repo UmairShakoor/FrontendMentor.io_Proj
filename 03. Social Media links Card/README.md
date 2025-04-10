@@ -18,7 +18,7 @@ Built with HTML and CSS, this simple yet stylish page showcases a profile with l
 
 ## 🔗 Links:
 
-* 🔗 [Live Demo](https://us-social-media-links-card.app.netlify/)
+* 🔗 [Live Demo](https://us-social-media-links-card.netlify.app/)
 * 👤 [Frontend Mentor Profile](https://www.frontendmentor.io/profile/UmairShakoor)
 
 ## 👤 Author:
